@@ -1,0 +1,2 @@
+INFURA_URL_TESTNET="https://polygon-mumbai.infura.io/v3/{YOUR_INFURA_ID}"
+INFURA_URL_MAINNET="https://polygon-mainnet.infura.io/v3/{YOUR_INFURA_ID}"
